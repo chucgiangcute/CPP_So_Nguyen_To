@@ -1,37 +1,4 @@
 // CPP_So_Nguyen_To.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
-/*#include <iostream>
-using namespace std;
-int main()
-{
-	int a;
-	cout << "Nhap so a :" << " ";
-	cin >> a;
-	{
-		for (int i = 2; i < a; i++);
-		for (int j = 2; j * j <= a; j++)
-		{
-			if (a < 2)
-			{
-				cout << "Khong phai là so nguyen to :"<< " ";
-			}
-			else if (a % 2 == 0)
-			{
-				cout << "Khong phai la so nguyen to :"<<" ";
-			}
-			else if (a == 2)
-			{
-
-			}
-			}
-		}
-}*/
-
-
-
-
-
 #include <iostream>
 using namespace std;
 bool ktSNT(int so)
